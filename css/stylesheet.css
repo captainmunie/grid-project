@@ -1,0 +1,33 @@
+.button {
+	text-align: center;
+	margin: auto;
+
+}
+
+.container {
+	margin: auto;
+	width: 960px;
+	height: 960px;
+}
+
+.grid {
+	background-color: black;
+	float: left;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+}
+
+.newrow {
+	margin-top: 10px;
+
+}
+
+.gridspacing {
+	clear: both;
+}
+
+.highlighted {
+	background-color: red;
+}
+
